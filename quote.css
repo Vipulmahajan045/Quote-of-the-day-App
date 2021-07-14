@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    /* border: none; */
+    cursor: pointer;
+    font-size: 20px;
+    transition: 2s;
+}
+p{
+    font-size: 35px;
+}
+button:hover{
+    background-color: green;
+}
